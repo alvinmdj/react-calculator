@@ -3,3 +3,6 @@ npx create-react-app ./
 
 Start React App
 npm start
+
+Required Hooks
+useReducer (https://reactjs.org/docs/hooks-reference.html#usereducer)
